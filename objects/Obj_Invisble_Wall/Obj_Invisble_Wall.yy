@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object_Invisble_Wall",
+  "name": "Obj_Invisble_Wall",
   "spriteId": {
     "name": "Sprite_Invisalbe_Wall",
     "path": "sprites/Sprite_Invisalbe_Wall/Sprite_Invisalbe_Wall.yy",

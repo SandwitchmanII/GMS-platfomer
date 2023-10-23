@@ -3,7 +3,7 @@
   "resourceVersion": "1.6",
   "name": "GML Platformer",
   "resources": [
-    {"id":{"name":"Object_Invisble_Wall","path":"objects/Object_Invisble_Wall/Object_Invisble_Wall.yy",},"order":1,},
+    {"id":{"name":"Obj_Invisble_Wall","path":"objects/Obj_Invisble_Wall/Obj_Invisble_Wall.yy",},"order":1,},
     {"id":{"name":"Sprite_Invisalbe_Wall","path":"sprites/Sprite_Invisalbe_Wall/Sprite_Invisalbe_Wall.yy",},"order":1,},
     {"id":{"name":"Sprite_Player","path":"sprites/Sprite_Player/Sprite_Player.yy",},"order":0,},
     {"id":{"name":"Object_Player","path":"objects/Object_Player/Object_Player.yy",},"order":0,},
