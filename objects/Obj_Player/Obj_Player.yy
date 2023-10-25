@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_Invisble_Wall",
+  "name": "Obj_Player",
   "spriteId": {
-    "name": "Spr_Invisalbe_Wall",
-    "path": "sprites/Spr_Invisalbe_Wall/Spr_Invisalbe_Wall.yy",
+    "name": "Spr_Player",
+    "path": "sprites/Spr_Player/Spr_Player.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,7 +24,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
