@@ -3,7 +3,7 @@
 //get palyer inputs
 key_left = keyboard_check(vk_left);
 key_right = keyboard_check(vk_right);
-key_jump = keyboard_check_pressed(vk_space);
+key_jump = keyboard_check_pressed(vk_up);
 
 //calculate movment
 var _move = key_right -key_left;
@@ -11,6 +11,11 @@ var _move = key_right -key_left;
 hsp = _move * walksp;
 
 vsp = vsp + grv;
+
+if (place_meeting(x,y+1,Obj_Invisble_Wall)) && (key_jump)
+{
+	vsp = -jumpsp
+}
 
 //horizontal collision
 if (place_meeting(x+hsp,y,Obj_Invisble_Wall))
