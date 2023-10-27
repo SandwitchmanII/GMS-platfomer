@@ -14,6 +14,8 @@
     {"id":{"name":"Spr_Clouds","path":"sprites/Spr_Clouds/Spr_Clouds.yy",},"order":7,},
     {"id":{"name":"Spr_Player","path":"sprites/Spr_Player/Spr_Player.yy",},"order":0,},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
+    {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},"order":16,},
+    {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"order":17,},
     {"id":{"name":"Rom_1","path":"rooms/Rom_1/Rom_1.yy",},"order":0,},
   ],
   "Options": [

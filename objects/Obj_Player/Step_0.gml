@@ -51,10 +51,14 @@ else
 	image_index = 1;	
 	if (hsp = 0)
 	{
-	sprite_index = Spr_Player;
+		sprite_index = Spr_Player;
+		image_speed = 1;
 	}
 	else
 	{
-	sprite_index = Spr_Player_Run;
+		sprite_index = Spr_Player_Run;
+		image_speed = 1;
 	}
 }
+
+if (hsp != 0) image_xscale  = sign(hsp);
