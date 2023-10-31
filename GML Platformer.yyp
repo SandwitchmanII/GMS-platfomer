@@ -5,7 +5,6 @@
   "resources": [
     {"id":{"name":"Spr_Wall","path":"sprites/Spr_Wall/Spr_Wall.yy",},"order":6,},
     {"id":{"name":"Spr_Player_Jump","path":"sprites/Spr_Player_Jump/Spr_Player_Jump.yy",},"order":4,},
-    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":15,},
     {"id":{"name":"Spr_Grain","path":"sprites/Spr_Grain/Spr_Grain.yy",},"order":8,},
     {"id":{"name":"Obj_Invisble_Wall","path":"objects/Obj_Invisble_Wall/Obj_Invisble_Wall.yy",},"order":1,},
     {"id":{"name":"Spr_Invisalbe_Wall","path":"sprites/Spr_Invisalbe_Wall/Spr_Invisalbe_Wall.yy",},"order":1,},
@@ -14,8 +13,6 @@
     {"id":{"name":"Spr_Clouds","path":"sprites/Spr_Clouds/Spr_Clouds.yy",},"order":7,},
     {"id":{"name":"Spr_Player","path":"sprites/Spr_Player/Spr_Player.yy",},"order":0,},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
-    {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},"order":16,},
-    {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},"order":17,},
     {"id":{"name":"Rom_1","path":"rooms/Rom_1/Rom_1.yy",},"order":0,},
   ],
   "Options": [

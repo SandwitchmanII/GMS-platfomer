@@ -2,7 +2,7 @@
 
 //get palyer inputs
 key_left = keyboard_check(vk_left);
-key_right = keyboard_check(vk_right);
+key_right = keyboard_check(vk_right)
 key_jump = keyboard_check_pressed(vk_up);
 
 //calculate movment
@@ -48,16 +48,14 @@ if (!place_meeting(x,y+1,Obj_Invisble_Wall))
 }
 else
 {
-	image_index = 1;	
-	if (hsp = 0)
+	image_speed = 1;	
+	if (hsp == 0)
 	{
 		sprite_index = Spr_Player;
-		image_speed = 1;
 	}
 	else
 	{
 		sprite_index = Spr_Player_Run;
-		image_speed = 1;
 	}
 }
 
