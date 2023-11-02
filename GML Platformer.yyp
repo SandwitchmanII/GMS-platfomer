@@ -12,6 +12,8 @@
     {"id":{"name":"TiS_Wall","path":"tilesets/TiS_Wall/TiS_Wall.yy",},"order":0,},
     {"id":{"name":"Spr_Backgound","path":"sprites/Spr_Backgound/Spr_Backgound.yy",},"order":2,},
     {"id":{"name":"Spr_Clouds","path":"sprites/Spr_Clouds/Spr_Clouds.yy",},"order":7,},
+    {"id":{"name":"Rom_3","path":"rooms/Rom_3/Rom_3.yy",},"order":3,},
+    {"id":{"name":"Rom_2","path":"rooms/Rom_2/Rom_2.yy",},"order":2,},
     {"id":{"name":"Spr_Player","path":"sprites/Spr_Player/Spr_Player.yy",},"order":0,},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
     {"id":{"name":"Rom_1","path":"rooms/Rom_1/Rom_1.yy",},"order":0,},
@@ -33,7 +35,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Rom_3","path":"rooms/Rom_3/Rom_3.yy",},},
     {"roomId":{"name":"Rom_1","path":"rooms/Rom_1/Rom_1.yy",},},
+    {"roomId":{"name":"Rom_2","path":"rooms/Rom_2/Rom_2.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
