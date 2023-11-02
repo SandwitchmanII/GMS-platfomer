@@ -9,6 +9,7 @@
     {"id":{"name":"Obj_Invisble_Wall","path":"objects/Obj_Invisble_Wall/Obj_Invisble_Wall.yy",},"order":1,},
     {"id":{"name":"Spr_Invisalbe_Wall","path":"sprites/Spr_Invisalbe_Wall/Spr_Invisalbe_Wall.yy",},"order":1,},
     {"id":{"name":"Spr_Player_Run","path":"sprites/Spr_Player_Run/Spr_Player_Run.yy",},"order":5,},
+    {"id":{"name":"TiS_Wall","path":"tilesets/TiS_Wall/TiS_Wall.yy",},"order":0,},
     {"id":{"name":"Spr_Backgound","path":"sprites/Spr_Backgound/Spr_Backgound.yy",},"order":2,},
     {"id":{"name":"Spr_Clouds","path":"sprites/Spr_Clouds/Spr_Clouds.yy",},"order":7,},
     {"id":{"name":"Spr_Player","path":"sprites/Spr_Player/Spr_Player.yy",},"order":0,},
