@@ -1,7 +1,9 @@
-# GML-Platformer-Starter-Kit
+## Clime 
 
-A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**  
-
+## Fearures 
+*Animated Idle State
+*Animated walk and run cicle 
+**Platformer Tutorial (GML) - Parts 1 & 2**  
 * [Platformer Tutorial (GML) - Par 1](https://youtu.be/2z4981CxFkw)
 * [Platformer Tutorial (GML) - Par 2](https://youtu.be/CUFm5DZm-A8)
 
@@ -15,5 +17,3 @@ A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**
 ## Credits
 The assets and video tutorials were created by [Shaun Spalding](https://www.youtube.com/c/ShaunSpalding).
 Check out Shaun's amazing collections of videos.
-
-test
